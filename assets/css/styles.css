@@ -1,0 +1,4 @@
+body { background: #f5f6f8; }
+.card { border-radius: 12px; }
+.table thead th { white-space: nowrap; }
+.badge { font-size: 0.85rem; }
